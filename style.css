@@ -31,7 +31,7 @@ img {
 
 
 .top-wrapper{
-    background-image: url(../images/top.jpg);
+    background-image: url(https://github.com/rusuntic/coffeecafe/blob/main/top.jpg?raw=true);
     height:400px;
     background-size: cover;
 }
